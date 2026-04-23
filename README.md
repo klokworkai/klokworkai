@@ -33,7 +33,7 @@ AI-Native Kubernetes Operator Synthesis Engine. Translates NLP intent into valid
 
 ## Origin
 
-This started as a side project to explore AI capabilities and how to make the most out of AI to boost productivity in Cloud Platform Engineering — and grew into something worth building properly.
+It all started as a side project to explore AI capabilities and to make the most out of it to boost productivity and reduce human workload in Cloud Platform Engineering and Developer workflows — and grew into something worth building properly.
 
 ---
 
