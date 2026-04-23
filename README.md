@@ -6,7 +6,7 @@
 
 AI-native tools for platform and infrastructure teams.
 
-We build products that think before they act — surfacing design as an explicit, inspectable artifact before any code or infrastructure is generated.
+Building AI powered products that think before they act — surfacing design as an explicit, inspectable artifact before any output/code is generated.
 
 ---
 
