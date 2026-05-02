@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/klokworkai/klokworkai/main/assets/gg-logo_large.png" height="280"/>
+  <img src="/assets/klokworkai-logo-large.png" height="280"/>
 </p>
 
 # klökwork AI
