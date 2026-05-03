@@ -11,7 +11,7 @@ Building AI powered products that think before they act — surfacing design as 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/klokworkai/klokworkai/main/assets/kre8-logo.png" height="320"/>
+  <img src="/assets/kre8-logo.png" height="320"/>
 </p>
 
 ### [kre8](https://github.com/klokworkai/kre8) — Thinking Infra Engine (TIE)
@@ -22,7 +22,7 @@ Currently prototyping in stealth mode.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/klokworkai/klokworkai/main/assets/byoo-logo.png" height="320"/>
+  <img src="/assets/byoo-logo.png" height="320"/>
 </p>
 
 ### [byoo](https://github.com/klokworkai/byoo) — Build Your Own Operator
@@ -32,7 +32,7 @@ AI-Native Kubernetes Operator Synthesis Engine. Translates NLP intent into valid
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/klokworkai/klokworkai/main/assets/kollab-logo.png" height="320"/>
+  <img src="/assets/kollab-logo.png" height="320"/>
 </p>
 
 ### [kollab](https://github.com/klokworkai/kollab) — The Adversarial Collab Engine
