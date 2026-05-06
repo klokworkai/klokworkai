@@ -35,7 +35,7 @@ AI-Native Kubernetes Operator Synthesis Engine. Translates NLP intent into valid
   <img src="/assets/kollab-logo.png" height="320"/>
 </p>
 
-### [kollab](https://github.com/klokworkai/kollab) — The Adversarial Collab Engine
+### [koll♠b](https://github.com/klokworkai/kollab) — powered by ACE 🤖, the Adversarial Collab Engine
 A transparent, adversarial-collaborative dialogue between Claude Code and OpenAI Codex on a single user-defined goal. Watch two frontier models negotiate, push back, concede, and converge — live in a browser UI.
 > Two Minds | One Code.
 
