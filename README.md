@@ -24,9 +24,8 @@ A transparent, adversarial-collaborative dialogue between Claude Code and OpenAI
   <img src="/assets/kre8-logo.png" height="320"/>
 </p>
 
-### [kre8](https://github.com/klokworkai/kre8) — Thinking Infra Engine (TIE) <sub>in progress</sub>
-Translates NLP intent into validated, policy-aware infrastructure design decisions and HCL.
-Currently prototyping in stealth mode.
+### [kre8](https://github.com/klokworkai/kre8) — Thinking Infra Engine (TIE)
+Translates NLP intent into validated, policy-aware infrastructure design decisions and HCL. [In progress]
 > Intent to Infrastructure.
 
 ---
@@ -35,8 +34,8 @@ Currently prototyping in stealth mode.
   <img src="/assets/byoo-logo.png" height="320"/>
 </p>
 
-### [byoo](https://github.com/klokworkai/byoo) — Build Your Own Operator <sub>coming soon</sub>
-AI-Native Kubernetes Operator Synthesis Engine. Translates NLP intent into validated operator designs and production-ready Go controller code.
+### [byoo](https://github.com/klokworkai/byoo) — Build Your Own Operator
+AI-Native Kubernetes Operator Synthesis Engine. Translates NLP intent into validated operator designs and production-ready Go controller code. [Coming soon]
 > Thought to Operate.
 
 ---
