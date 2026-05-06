@@ -11,10 +11,20 @@ Building AI powered products that think before they act — surfacing design as 
 ---
 
 <p align="center">
+  <img src="/assets/kollab-logo.png" height="320"/>
+</p>
+
+### [koll♠b](https://github.com/klokworkai/kollab) — powered by ACE 🤖, the Adversarial Collab Engine
+A transparent, adversarial-collaborative dialogue between Claude Code and OpenAI Codex on a single user-defined goal. Watch two frontier models negotiate, push back, concede, and converge — live in a browser UI.
+> Two Minds | One Code.
+
+---
+
+<p align="center">
   <img src="/assets/kre8-logo.png" height="320"/>
 </p>
 
-### [kre8](https://github.com/klokworkai/kre8) — Thinking Infra Engine (TIE)
+### [kre8](https://github.com/klokworkai/kre8) — Thinking Infra Engine (TIE) *(in progress)*
 Translates NLP intent into validated, policy-aware infrastructure design decisions and HCL.
 Currently prototyping in stealth mode.
 > Intent to Infrastructure.
@@ -25,19 +35,9 @@ Currently prototyping in stealth mode.
   <img src="/assets/byoo-logo.png" height="320"/>
 </p>
 
-### [byoo](https://github.com/klokworkai/byoo) — Build Your Own Operator
+### [byoo](https://github.com/klokworkai/byoo) — Build Your Own Operator *(coming soon)*
 AI-Native Kubernetes Operator Synthesis Engine. Translates NLP intent into validated operator designs and production-ready Go controller code.
 > Thought to Operate.
-
----
-
-<p align="center">
-  <img src="/assets/kollab-logo.png" height="320"/>
-</p>
-
-### [koll♠b](https://github.com/klokworkai/kollab) — powered by ACE 🤖, the Adversarial Collab Engine
-A transparent, adversarial-collaborative dialogue between Claude Code and OpenAI Codex on a single user-defined goal. Watch two frontier models negotiate, push back, concede, and converge — live in a browser UI.
-> Two Minds | One Code.
 
 ---
 
