@@ -31,10 +31,10 @@ Translates NLP intent into validated, policy-aware infrastructure design decisio
 ---
 
 <p align="center">
-  <img src="/assets/byoo-logo.png" height="320"/>
+  <img src="/assets/kyoo-logo.png" height="320"/>
 </p>
 
-### [byoo](https://github.com/klokworkai/byoo) — Build Your Own Operator
+### [kyoo](https://github.com/klokworkai/kyoo) — Kre8 Your Own Operator
 AI-Native Kubernetes Operator Synthesis Engine. Translates NLP intent into validated operator designs and production-ready Go controller code. [Coming soon]
 > Thought to Operate.
 
