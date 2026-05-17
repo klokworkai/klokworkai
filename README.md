@@ -10,12 +10,19 @@ Building AI powered products that think before they act — surfacing design as 
 
 ---
 
+## Built by
+
+**John Manoah Jeyakumar**
+[Personal LinkedIn](https://www.linkedin.com/in/john-jeyakumar) · [klökwork AI on LinkedIn](https://www.linkedin.com/company/klokwork-ai) *(coming soon)*
+
+---
+
 <p align="center">
   <img src="/assets/kollab-logo.png" height="320"/>
 </p>
 
 ### [koll♠b](https://github.com/klokworkai/kollab) — powered by ACE 🤖 the Adversarial Collab Engine
-A transparent, adversarial-collaborative dialogue between Claude Code and OpenAI Codex on a single user-defined goal. Watch two frontier models negotiate, push back, concede, and converge — live in a browser UI.
+A transparent, adversarial-collaborative dialogue between Claude Code and OpenAI Codex on a single user-defined goal. Watch two frontier models Claude Code and Codex negotiate, push back, concede, and converge — live in a browser UI. [MVP/demoable]
 > Two Minds | One Code.
 
 ---
@@ -35,7 +42,7 @@ Translates NLP intent into validated, policy-aware infrastructure design decisio
 </p>
 
 ### [kyoo](https://github.com/klokworkai/kyoo) — Kre8 Your Own Operator
-AI-Native Kubernetes Operator Synthesis Engine. Translates NLP intent into validated operator designs and production-ready Go controller code. [Coming soon]
+AI-Native Kubernetes Operator Synthesis Engine.         Exploring AI-native Kubernetes operator design and controller generation workflows, from Intent to Go. [Concept/Coming soon]
 > Thought to Operate.
 
 ---
@@ -46,11 +53,4 @@ It all started as a side project to explore AI capabilities and to make the most
 
 ---
 
-## Built by
-
-**John Manoah Jeyakumar**
-[Personal LinkedIn](https://www.linkedin.com/in/john-jeyakumar) · [klökwork AI on LinkedIn](https://www.linkedin.com/company/klokwork-ai) *(coming soon)*
-
----
-
-*Early stage. Building in public.*
+*Early stage. Select components/tools will be open-sourced.*
