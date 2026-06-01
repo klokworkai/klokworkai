@@ -16,11 +16,13 @@ The focus is not autonomous engineering — it's making AI-assisted workflows ob
 
 An AI-native orchestration system that runs two agents through a structured proposal → critique → revision → convergence workflow on a shared engineering objective. Every turn, verdict, and reasoning trace is streamed live to a browser UI. The session is fully interruptible: halt at any point, inject a directive into one or both agents, and resume.
 
+Built for ICs who already use multiple AI models to cross-validate their work — bouncing between Claude, Codex, GPT, or Gemini to catch what one model misses. koll♠b replaces that manual tab-switching with a structured loop: one model proposes, another adversarially reviews, and ACE enforces the back-and-forth until the proposal holds up or the disagreement is explicit. Less trial and error. No lost context. Full audit trail.
+
 <p align="center">
   <img src="/assets/ace-loop.png" width="760" alt="ACE convergence loop — kollab orchestration"/>
 </p>
 
-Currently ships with Claude Code as producer and Codex as critic. This two-agent model will become extensible with a pluggable provider registry — Anthropic, OpenAI, DeepSeek, Groq, Gemini — with configurable roles (architect, reviewer, coder, tester, security) and multi-stage workflows. The validation loop stays the same; what changes is what runs inside it.
+Currently ships with Claude Code as producer and Codex as critic. The current two-agent model will become extensible with a pluggable provider registry — Anthropic, OpenAI, DeepSeek, Groq, Gemini — with configurable roles (architect, reviewer, coder, tester, security, custom roles) and user-defined multi-stage workflows. The validation loop stays the same; what changes is what runs inside it.
 
 Observability is structural, not opt-in. Turn IDs are stable for the session lifetime. Verdict parsing is mechanical — ACE reads a `<verdict>` trailer on every turn and acts on it. Interrupted turns are preserved as artifacts. Every event is typed, logged to JSONL, and replayable from disk. The result isn't just AI output — it's a validated proposal with an auditable provenance trail.
 
