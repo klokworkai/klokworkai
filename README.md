@@ -58,7 +58,7 @@ Each project is built around the same premise: AI-assisted engineering workflows
 
 ## Built by
 
-**John Manoah Jeyakumar** - IC, Platform and Infrastructure Engineering with 18+ years across various Software Engineering roles. 10+ years in cloud platforms, Kubernetes, and distributed systems. 7× AWS certified, 4× GCP certified and others.
+**John Manoah Jeyakumar** - IC in Platform and Infrastructure Engineering with 18+ years across various Software Engineering roles. 10+ years in cloud platforms, Kubernetes, and distributed systems. 7× AWS certified, 4× GCP certified and others.
 
 [Personal LinkedIn](https://www.linkedin.com/in/john-jeyakumar) · [X / @klokworkai](https://x.com/klokworkai) · [john@klokwork.ai](mailto:john@klokwork.ai)
 
