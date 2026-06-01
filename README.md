@@ -12,7 +12,7 @@ The focus is not autonomous engineering — it's making AI-assisted workflows ob
 
 ## Projects
 
-### [koll♠b](https://github.com/klokworkai/kollab) — ACE · Adversarial Collab Engine
+### [koll♠b](https://github.com/klokworkai/kollab) — ACE · Adversarial Collab Engine · OSS
 
 An AI-native orchestration system that runs two agents through a structured proposal → critique → revision → convergence workflow on a shared engineering objective. Every turn, verdict, and reasoning trace is streamed live to a browser UI. The session is fully interruptible: halt at any point, inject a directive into one or both agents, and resume.
 
