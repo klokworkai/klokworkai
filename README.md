@@ -24,7 +24,7 @@ Built for ICs who already use multiple AI models to cross-validate their work �
 
 Currently ships with Claude Code as producer and Codex as critic. The current two-agent model will become extensible with a pluggable provider registry — Anthropic, OpenAI, DeepSeek, Groq, Gemini — with configurable roles (architect, reviewer, coder, tester, security, custom roles) and user-defined multi-stage workflows. The validation loop stays the same; what changes is what runs inside it.
 
-Observability is structural, not opt-in. Turn IDs are stable for the session lifetime. Verdict parsing is mechanical — ACE reads a `<verdict>` trailer on every turn and acts on it. Interrupted turns are preserved as artifacts. Every event is typed, logged to JSONL, and replayable from disk. The result isn't just AI output — it's a validated proposal with an auditable provenance trail.
+Observability is structural, not opt-in. Turn IDs are stable for the session lifetime. Verdict parsing is mechanical — ACE reads a `<verdict>` trailer on every turn and acts on it. Interrupted turns are preserved as artifacts. Every event is typed, logged to JSONL, and replayable from disk. The result isn't just AI output — it's a validated proposal with an auditable provenance trail. [Roadmapped for API workflow as well]
 
 **[→ kollab repo](https://github.com/klokworkai/kollab)** · `demoable`
 
