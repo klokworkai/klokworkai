@@ -4,7 +4,7 @@
 
 # klökwork AI
 
-Independent platform engineering initiative building AI-native orchestration systems, inspectable developer workflows, and infrastructure automation for cloud and Kubernetes environments.
+Independent platform engineering initiative building AI-native orchestration systems, inspectable developer workflows, and infrastructure automation for ICs and cloud platforms.
 
 The focus is not autonomous engineering — it's making AI-assisted workflows observable, collaborative, and operationally grounded before implementation decisions are accepted.
 
