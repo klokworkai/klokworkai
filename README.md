@@ -64,4 +64,4 @@ Each project is built around the same premise: AI-assisted engineering workflows
 
 ---
 
-*Select components will be open-sourced. kollab is the first.*
+*Select projects will be open-sourced. kollab is the first.*
