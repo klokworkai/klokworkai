@@ -30,7 +30,7 @@ Observability is structural, not opt-in. Turn IDs are stable for the session lif
 
 ---
 
-### [kre8](https://github.com/klokworkai/kre8) — Thinking Infra Engine
+### [kre8](https://github.com/klokworkai/kre8) — Thinking Infra Engine · (soon to be OSS)
 
 Intent-driven infrastructure planning system. Translates natural-language objectives into policy-validated architecture decisions and inspectable design artifacts before any HCL or IaC is generated. The design artifact is the deliverable — not the Terraform.
 
