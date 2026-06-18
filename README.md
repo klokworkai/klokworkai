@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/klokworkai-logo-large.png" height="200"/>
+  <img src="/assets/klokworkai-wordmark-clock.png" height="200"/>
 </p>
 
 # klökwork AI
