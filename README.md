@@ -30,11 +30,21 @@ Observability is structural, not opt-in. Turn IDs are stable for the session lif
 
 ---
 
-### [kre8](https://github.com/klokworkai/kre8) — Thinking Infra Engine · (soon to be OSS)
+### [kre8](https://github.com/klokworkai/kre8) — Thinking Infra Engine · OSS
 
-Intent-driven infrastructure planning system. Translates natural-language objectives into policy-validated architecture decisions and inspectable design artifacts before any HCL or IaC is generated. The design artifact is the deliverable — not the Terraform.
+**kre8** is a **Thinking Infrastructure Engine (TIE)** — it translates natural language intent into validated, policy-governed infrastructure design artifacts before any HCL is written. The design is the deliverable, not the Terraform.
 
-**[→ kre8 repo](https://github.com/klokworkai/kre8)** · `design stage`
+Most IaC generation is opaque: intent in, code out, no record of the decisions in between. kre8 makes every stage of the design process a first-class artifact. Intent is extracted as structured signals (Kit). Applicable policy rules are resolved and bound to the run (kick). A resource dependency graph is produced and DAG-validated (kraph). A full provider-specific infrastructure manifest is assembled (kanvas). Two mandatory policy gates (konform kg1 and kg2) enforce constraints before any code is synthesised. koder then produces OpenTofu/Terraform-compatible HCL strictly from the validated kanvas — no independent interpretation.
+
+The reasoning engine is **i2d2** (Intelligent Infrastructure Design Decision). It is the sole design authority and the only component that writes to the artifact store. Policy enforcement (konform/OPA) is strictly isolated — it returns a verdict and nothing else. LLM calls are centralised through konnekt, which owns all model routing and credentials. The policy model is built around **krules** — atomic, skope-independent rules using a DEAL model (Deny / Allow+Limit) that constrain at gate time, not design time, preserving full LLM reasoning quality.
+
+<p align="center">
+  <img src="/assets/kre8_pipeline_v1.png" width="760" alt="kre8 pipeline — intent to HCL"/>
+</p>
+
+Core schemas (Kit, Kraph, Kanvas) and the LLM adapter (konnekt) are complete. The i2d2 orchestrator is in active development. konform, krule_registry, koder, kiosk, and the remaining pipeline components are planned.
+
+**[→ kre8 repo](https://github.com/klokworkai/kre8)** · `design stage` · `early build`
 
 ---
 
@@ -64,4 +74,4 @@ Each project is built around the same premise: AI-assisted engineering workflows
 
 ---
 
-*Select projects will be open-sourced. kollab is the first.*
+*kollab and kre8 are open-source. kyoo is in concept stage.*
